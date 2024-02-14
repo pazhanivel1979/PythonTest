@@ -1,6 +1,6 @@
 print("Hello World")
 my_print = print
-my_print('hello from my_print!')c
+my_print('hello from my_print!')
 x = 5.62
 print(type(x))
 
